@@ -1,0 +1,4 @@
+mensaje='Hola mundo'
+print(mensaje)
+
+#  https://www.programacionfacil.org/cursos/python_basico/capitulo_1_instalacion_ide_python.html
